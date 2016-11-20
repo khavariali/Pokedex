@@ -6,11 +6,11 @@ PokeDex App IOS 10 course / DevSlopes / UDEMY
 
 What you will use in this project :
 
-1- CollectionView
-2- Classes
-3- MVC
-4- ALAMOFIRE
-5- JSON
+1- CollectionView <br />
+2- Classes <br />
+3- MVC <br />
+4- ALAMOFIRE <br />
+5- JSON <br />
 
 
 Reza Khavari.
